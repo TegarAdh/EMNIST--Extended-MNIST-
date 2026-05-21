@@ -33,4 +33,7 @@ This confusion matrix shows the classification performance on the test set:
 ![-](img/cm.png)
 ## 🖼️ Prediction Visualization
 Result from 5 sample prediction:
-![-]()
+![-](img/output.png)
+```
+If the prediction is correct it will be 🟢 (green), and if the prediction is wrong it will be 🔴 (red).
+```
